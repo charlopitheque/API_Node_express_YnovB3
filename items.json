@@ -1,0 +1,14 @@
+[
+        {
+            "id": 0,
+            "label": "Item 0",
+            "img": "urlImg0",
+            "desc": "desc item 0"
+        },
+        {
+            "id": 1,
+            "label": "item 1",
+            "img": "urlItem1",
+            "desc": "desc item 1"
+        }
+]
